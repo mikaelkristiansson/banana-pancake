@@ -1,0 +1,22 @@
+{
+    "name": "banana-pancake",
+    "displayName": "banana pancake",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "mikael",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Banana Pancake",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Banana Pancake-color-theme.json"
+            }
+        ]
+    }
+}
